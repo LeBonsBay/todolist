@@ -24,7 +24,7 @@ function deleteAfterFinish(index, event) {
 
 //@ToDo
 //look how a v-if actually behaves and works & look into v-model computing etc..
-//afterwards, implement drag and drop function
+//afterwards, implement drag and drop function.
 //after the drag and drop make plus for adding entries, deleting etc...
 </script>
 
