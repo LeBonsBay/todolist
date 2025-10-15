@@ -1,6 +1,6 @@
 # To-Do-List
 
-A basic todo list made with vue. I made this basic project to get a better understanding of vue. 
+A small ToDo list project built with Vue.js. I created it to improve my understanding of Vue concepts such as reactivity, event handling, and component structure, while learning how to build interactive web applications.
 
 
 # Features
